@@ -16,7 +16,7 @@ const About = () => {
         <div className={styles.imgText}>
           <h1 className={styles.imgTitle}>Digital Storyteller</h1>
           <h2 className={styles.imgDesc}>
-            Handcrafting award winnig digital experience
+            Handcrafting award &quot;winnig&quot; experience
           </h2>
         </div>
       </div>
