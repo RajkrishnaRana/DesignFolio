@@ -2,8 +2,6 @@
 
 This is my first ever NextJs website. Here I use NextJs SWR for data fetching, Next Auth for loggin feature, MongoDB for database to build this interactive website. I learned a lot from this project about NextJs API call, App Router working, 
 
-# You can find the link of the website here : https://raj-3d-portfolio.netlify.app/
-
 # If you willing to run this project on you device please follow the below steps, 
 1. Download the zip file
 2. open terminal and run 'npm install'
